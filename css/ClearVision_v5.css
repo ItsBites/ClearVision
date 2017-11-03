@@ -113,10 +113,10 @@ body::after {
 }
 @-webkit-keyframes cv-bg {
     0% {
-        background-color: rgba(0, 0, 0, .5);
+        background-color:#0C2340;
     }
     72% {
-        background-color: rgba(0, 0, 0, .5);
+        background-color: #0C2340;
     }
     100% {
         background-color: transparent;
@@ -124,10 +124,10 @@ body::after {
 }
 @keyframes cv-bg {
     0% {
-        background-color: rgba(0, 0, 0, .5);
+        background-color: #0C2340;
     }
     72% {
-        background-color: rgba(0, 0, 0, .5);
+        background-color: #0C2340;
     }
     100% {
         background-color: transparent;
@@ -488,11 +488,11 @@ _______/\\\\\___________________________________________________________________
         ______\/////_______\///___\///___\///__\///____\///__\///__\//////////_____\////////__\///____\//////////__\///____\///__\///______\/////____
 */
 .slider-bar {
-    background: rgba(0, 0, 0, 0.44);
+    background: #0C2340;
 }
 .slider-handle,
 .slider-handle span {
-    background-color: rgb(21, 21, 21);
+    background-color: #0C2340;
 }
 .create-guild-container .join-server .link-container input {
     border: 1px solid var(--main-color);
@@ -505,7 +505,7 @@ _______/\\\\\___________________________________________________________________
     color: var(--main-color);
 }
 .need-help-modal .footer {
-    background-color: rgba(0, 0, 0, 0.88);
+    background-color: #0C2340;
     border-top: none;
 }
 .need-help-modal .header {
@@ -519,7 +519,7 @@ _______/\\\\\___________________________________________________________________
     color: var(--main-color);
 }
 .settings .settings-inner {
-    background-color: rgba(0, 0, 0, 0.70) !important;
+    background-color: #0C2340 !important;
     color: #999;
 }
 .notification-settings-modal .mute-server .checkbox .label {
